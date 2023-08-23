@@ -1,0 +1,10 @@
+{
+    "name": "PWA's Name",
+    "short_name": "A Short PWA's name",
+    "start_url": "/?home=true",
+    "icons": [],
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
